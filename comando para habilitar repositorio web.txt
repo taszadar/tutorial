@@ -1,0 +1,3 @@
+ /*este es el comando para poder habilitar el SSL de nuestro repositorio en github para que funcione en sourcetree*/
+ 
+ git config --global http.sslVerify false 
