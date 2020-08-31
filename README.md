@@ -1,5 +1,3 @@
 # tutorial
 
-TUTORIAL DEL FINAL
-
-SE CREO RAMA
+va a causar conflictos por cambios diferenets en web y carpeta
